@@ -1,0 +1,1 @@
+Ceci est une exercice pour voir comment fonctionne la création d'un fichier ( qui n'a pas était vu dans le cour )
